@@ -1,0 +1,7 @@
+{
+  "name": "GiftWheels",
+  "description": "A premium e-commerce platform for die-cast collectors with a dark automotive aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
